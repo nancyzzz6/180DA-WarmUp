@@ -1,4 +1,11 @@
-# 1. MQTT can be used for multiple players' connections in the prjoject.
+# Consider how to use MQTT for the project. Based on your experiences, what is made possible us-
+# ing MQTT? What seems fairly difficult using MQTT? If you were to use MQTT, what would be a
+# reasonable communications lag time be? Would you prefer to use a different method of transmitting
+# data?
+
+# MQTT can be used for multiple players' connections in the prjoject, 
+# and I think it's a really great way for out project for communication.
+# The reasinable communications should be within about 5 sec.
 
 #2 - When I tried more similar sounding words, the results didn't show 
 # well as before. In noisy situation, the performance was even worse
